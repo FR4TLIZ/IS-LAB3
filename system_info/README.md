@@ -28,4 +28,7 @@ No external dependencies are required.
 2. Run it:
    ```bash
    ./system_info_report.sh
+3. Read it:
+   ```bash
+   cat system_info.txt
 

@@ -25,4 +25,7 @@ No external dependencies are required.
 1. Make the script executable:
    ```bash
    chmod +x system_report.sh
+2. Run it:
+   ```bash
+   ./system_info_report.sh
 
